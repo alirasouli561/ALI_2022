@@ -1,0 +1,48 @@
+body
+{
+	background-color: cadetblue;
+	text-align: center;
+}
+
+div
+{
+	
+	margin-left: 28%;
+	margin-right: 35%;
+
+    
+}
+
+.d1
+{
+
+}
+
+input
+{
+    border-radius: 5px;
+	border : 2px solid white;
+	background-color: white;
+	width:200px;
+	height: 20px;
+
+}
+
+button
+{
+	color: darkred;
+	background-color: darkgray;
+}
+
+button :hover {
+	background-color:pink;
+	color: red;
+	border: 2px solid red;
+	transform: rotate(3deg);
+	cursor: pointer;
+}
+
+.d1
+{
+	width: 3em;
+}

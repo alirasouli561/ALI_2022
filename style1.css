@@ -1,0 +1,258 @@
+body
+{
+	background-color:black;
+	text-align: center;
+}
+
+h1
+{
+	color:red;
+}
+
+div
+{
+	border: 2px solid red;
+	width: 40%;
+	margin-left: 28%;
+	margin-right: 35%;
+	border-radius: 26px;
+	padding: 5px 32PX;
+	height: 300px;
+    padding: 15px 32PX;
+
+}
+
+input
+{
+	color:white;
+	text-align: center;
+	border-radius: 26px;
+	border :  2px solid white;
+	background-color: black;
+	width:300px;
+	height: 40px;
+
+
+}
+
+button
+{
+	width:200px;
+	border: 3px solid black;
+	border-radius: 26px;
+	background-color: red;
+	height:60PX;
+    margin-bottom: 1px;
+    margin-top: 4px;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+}
+
+button:hover 
+{
+	background-color: red;
+	color:lightblue;
+	border: 2px solid white;
+	transform: rotate(5deg);
+	cursor: pointer;
+
+}

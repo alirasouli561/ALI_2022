@@ -1,0 +1,45 @@
+.page {
+	width: 790px;
+	margin: auto;
+	font-size: 16px;
+	border: solid 2px darkred;
+}
+
+.photo {
+	height: 180px;
+}
+
+.info {
+ float: left;
+ color: darkred;
+font-size: 18px;
+padding-left: 10px;
+}
+
+.photo1{
+
+	float: right;
+	margin-right: -80px;
+}
+
+.t1 
+{
+	margin bottom: 70px;
+	text-align: justify;
+	border: solid 2px;
+	border-radius: 20px;
+	list-style: none;
+color: darkred;
+font-size: 18px;
+padding-left: 10px;
+}
+
+.left
+{
+	float: left;
+	margin-right: 5px;
+}
+.right
+{
+
+}

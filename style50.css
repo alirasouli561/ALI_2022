@@ -3,18 +3,24 @@
 	margin: auto;
 	font-size: 16px;
 	border: solid 2px darkred;
-	background-color: lightgray;
+	background-color: white;
 }
 
 .photo {
 	height: 180px;
+	border: solid 2px;
+	border-radius: 30px;
+	margin-right: 1%;
+	margin-left: 1%;
+	margin-bottom: 1%;
+	margin-top: 1%;
+
 }
 
 .info {
  float: left;
- color: darkred;
-font-size: 18px;
-padding-left: 10px;
+ font-size: 18px;
+ padding-left: 10px;
 }
 
 .photo1{
@@ -28,19 +34,17 @@ padding-left: 10px;
 	margin bottom: 70px;
 	text-align: justify;
 	border: solid 2px;
-	border-radius: 20px;
-	list-style: none;
-color: darkred;
-font-size: 18px;
-padding-left: 10px;
+	border-radius: 30px;
+	margin-right: 1%;
+	margin-left: 1%;
+	margin-bottom: 1%;
+	margin-top: 1%;
+        font-size: 18px;
+        padding-left: 10px;
 }
 
 .left
 {
 	float: left;
 	margin-right: 5px;
-}
-.right
-{
-
 }

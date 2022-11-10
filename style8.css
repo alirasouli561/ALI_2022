@@ -1,0 +1,38 @@
+body
+{
+	background-color: hotpink;
+}
+
+ul li {
+
+width: 200px;
+height: 50px;
+border: 2px solid #666;
+background-color: lightblue;
+list-style: none;
+color: darkred;
+font-size: 18px;
+padding-left: 10px;
+line-height: 50px;
+
+}
+
+ul li:hover
+{
+cursor: pointer;
+width: 250px;
+background-color: white;
+color: red;
+font-weight: bold;
+border: 2px solid green ;
+padding-left: 40px;
+line-height: 50px;
+transition: all 1s;
+}
+
+div
+{
+	background-color: green;
+	width: 50%;
+	hight:  50%;
+}

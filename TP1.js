@@ -112,11 +112,19 @@ function parite()
 
 function swap()
 {
-    var a = document.getElementById("t1").value;
-    var b = document.getElementById("t2").value;
-    var s = Number(a) / Number(b);
+    var v3 = "";
+    
+    a = document.getElementById("t1").value;
+    b = document.getElementById("t2").value;
 
-    t3.value = s;
+    v3=a;
+    a=b;
+    b=v3;
+
+    t1.value = a;
+    t2.value = b;
+
+
 }
 
 function calcul_moyenne1()
